@@ -3,7 +3,7 @@ WordPress plugin: Sharedaddy with Google +1 button
 
 This is a fork of a fork of Automattic's [Sharedaddy](http://wordpress.org/extend/plugins/sharedaddy/) plugin for WordPress.  Sharedaddy, by the way, is included in the great [Jetpack](http://wordpress.org/extend/plugins/jetpack/) plugin).
 
-As of 2011-06-30, Sharedaddy doesn't yet support a Google +1 button.
+As of 2011-06-30, Sharedaddy 0.2.12 doesn't yet support a Google +1 button.
 
 Marco Newmann extended Sharedaddy to [add support for Google +1 button](http://p0l0.binware.org/index.php/2011/06/03/google-1-for-sharedaddy/), but it wasn't working quite consistently with all the other services, so I hacked his modifications.  These are the things I've changed:
 
