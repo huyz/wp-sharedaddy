@@ -14,6 +14,15 @@ Marco Newmann extended Sharedaddy to [add support for Google +1 button](http://p
 
 This plugin has a limited shelf-life, as Automattic will surely release an official update of Sharedaddy soon.
 
+Screenshots
+-----------
+
+![Smart buttons](screenshots/screenshot-smart-buttons.png)
+
+![Icons without text](screenshots/screenshot-icons-only.png)
+
+![Icons with text](screenshots/screenshot-icons-with-text.png)
+
 Limitations
 -----------
 
