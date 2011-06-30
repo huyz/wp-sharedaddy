@@ -25,7 +25,7 @@ And as a set of icons with text:
 
 ![Icons with text](wp-sharedaddy/raw/master/screenshots/screenshot-icons-with-text.png)
 
-Finally, as "smart"i cons with counts (For some, the counts only show up when > 0):
+Finally, as "smart" icons with counts (For some services, the counts only show up when > 0):
 
 ![Smart buttons](wp-sharedaddy/raw/master/screenshots/screenshot-smart-buttons.png)
 
