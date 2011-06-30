@@ -1,0 +1,328 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin Sharedaddy en español\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-21 10:01+0100\n"
+"PO-Revision-Date: 2010-09-21 10:03+0100\n"
+"Last-Translator: Eduardo Larequi <elarequi@educacion.navarra.es>\n"
+"Language-Team: PNTE <blogs@educacion.navarra.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: Spain\n"
+"X-Poedit-KeywordsList: __;_c;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sharedaddy.php:14
+#, php-format
+msgid ""
+"%s (%s) thinks you may be interested in the following post:\n"
+"\n"
+msgstr ""
+"%s (%s) considera que puedes estar interesado en esta entradat:\n"
+"\n"
+
+#: sharedaddy.php:18
+msgid "Shared Post"
+msgstr "Entrada compartida"
+
+#: sharedaddy.php:22
+#: sharedaddy.php:23
+#: sharing.php:49
+msgid "Sharing"
+msgstr "Compartir"
+
+#: sharedaddy.php:34
+msgid "Show sharing buttons on this post."
+msgstr "Mostrar botones de compartir en esta entrada."
+
+#: sharedaddy.php:55
+#: sharedaddy.php:62
+msgid "Settings"
+msgstr "Configuración"
+
+#: sharedaddy.php:63
+msgid "Support"
+msgstr "Soporte"
+
+#: sharing-service.php:185
+msgid "Share this:"
+msgstr "Compartir:"
+
+#: sharing-service.php:423
+#: sharing-sources.php:600
+#: sharing.php:226
+#: sharing.php:267
+msgid "Share"
+msgstr "Compartir"
+
+#: sharing-sources.php:127
+#: sharing-sources.php:193
+msgid "Email"
+msgstr "Email"
+
+#: sharing-sources.php:169
+msgid "This post has been shared!"
+msgstr "Esta entrada ha sido compartida"
+
+#: sharing-sources.php:170
+#, php-format
+msgid "You have shared this post with %s"
+msgstr "Has compartido esta entrada con %s"
+
+#: sharing-sources.php:171
+msgid "Close"
+msgstr "Cerrar"
+
+#: sharing-sources.php:193
+msgid "Click to email this to a friend"
+msgstr "Haz click para enviar esta recomendación a un amigo"
+
+#: sharing-sources.php:207
+msgid "Send to Email Address"
+msgstr "Enviar a la dirección de email"
+
+#: sharing-sources.php:215
+msgid "Your Name"
+msgstr "Tu nombre"
+
+#: sharing-sources.php:218
+msgid "Your Email Address"
+msgstr "Tu dirección de email"
+
+#: sharing-sources.php:226
+msgid "Send Email"
+msgstr "Enviar email"
+
+#: sharing-sources.php:227
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: sharing-sources.php:230
+msgid "Post was not sent - check your email addresses!"
+msgstr "La entrada no ha sido enviada. Por favor, comprueba tus direcciones de email."
+
+#: sharing-sources.php:234
+msgid "Email check failed, please try again"
+msgstr "La comprobación del email ha fallado; por favor, inténtalo de nuevo"
+
+#: sharing-sources.php:238
+msgid "Sorry, your blog cannot share posts by email."
+msgstr "Lo sentimos, pero tu blog no puede recomendar entradas por email."
+
+#: sharing-sources.php:264
+msgid "Click to share on Twitter"
+msgstr "Haz clic para compartir en Twitter"
+
+#: sharing-sources.php:325
+#: sharing-sources.php:402
+#: sharing-sources.php:453
+#: sharing-sources.php:558
+msgid "Use smart button"
+msgstr "Utilizar botones inteligentes"
+
+#: sharing-sources.php:354
+msgid "Click to share on StumbleUpon"
+msgstr "Haz clic para compartir en StumbleUpon"
+
+#: sharing-sources.php:427
+msgid "Click to share on Reddit"
+msgstr "Haz clic para compartir en Reddit"
+
+#: sharing-sources.php:506
+#: sharing-sources.php:509
+msgid "Click to Digg this post"
+msgstr "Haz clic para enviar esta entrada a Digg"
+
+#: sharing-sources.php:604
+msgid "Share on Facebook"
+msgstr "Compartir en Facebook"
+
+#: sharing-sources.php:626
+msgid "Default button"
+msgstr "Botón por defecto"
+
+#: sharing-sources.php:627
+msgid "Share button"
+msgstr "Botón de compartir"
+
+#: sharing-sources.php:628
+msgid "Like button"
+msgstr "Botón de 'Me gusta'"
+
+#: sharing-sources.php:673
+#: sharing-sources.php:677
+msgid "Print"
+msgstr "Imprimir"
+
+#: sharing-sources.php:677
+msgid "Click to print"
+msgstr "Haz clic para imprimir"
+
+#: sharing-sources.php:683
+#: sharing-sources.php:701
+msgid "Press This"
+msgstr "Publicar esto"
+
+#: sharing-sources.php:701
+msgid "Click to Press This!"
+msgstr "Haz clic para publicar esto"
+
+#: sharing-sources.php:732
+msgid "Click to share"
+msgstr "Haz clic para compartir"
+
+#: sharing-sources.php:757
+msgid "Label"
+msgstr "Etiqueta"
+
+#: sharing-sources.php:762
+msgid "URL"
+msgstr "URL"
+
+#: sharing-sources.php:767
+msgid "Icon"
+msgstr "Icono"
+
+#: sharing-sources.php:774
+msgid "Save"
+msgstr "Guardar"
+
+#: sharing-sources.php:775
+msgid "Remove Service"
+msgstr "Eliminar el servicio"
+
+#: sharing.php:49
+#: sharing.php:150
+msgid "Sharing Settings"
+msgstr "Configuración del plugin Compartir"
+
+#: sharing.php:145
+msgid "Settings have been saved"
+msgstr "La configuración ha sido guardada"
+
+#: sharing.php:156
+msgid "Available Services"
+msgstr "Servicios disponibles"
+
+#: sharing.php:157
+msgid "Drag and drop the services you'd like to enable into the box below."
+msgstr "Arrastra y suelta los servicios que quieres activar en la caja que aparece a continuación."
+
+#: sharing.php:158
+msgid "Add a new service"
+msgstr "Añadir un nuevo servicio"
+
+#: sharing.php:178
+msgid "Enabled Services"
+msgstr "Servicios activados"
+
+#: sharing.php:181
+msgid "Services dragged here will appear individually."
+msgstr "Los servicios que hayas arrastrado aquí aparecerán individualmente, al final de cada entrada."
+
+#: sharing.php:184
+msgid "Drag and drop available services here"
+msgstr "Arrastra y suelta los servicios disponibles aquí"
+
+#: sharing.php:195
+msgid "Services dragged here will be hidden behind a share button."
+msgstr "Los servicios que hayas arrastrado aquí estarán ocultos bajo el botón de compartir, al final de cada entrada."
+
+#: sharing.php:210
+msgid "Live Preview"
+msgstr "Vista previa de los servicios activados"
+
+#: sharing.php:213
+msgid "Sharing is off. Please add services above to enable"
+msgstr "La función de compartir está desactivada. Por favor, añade servicios para activarlos"
+
+#: sharing.php:295
+msgid "Default button style"
+msgstr "Estilo por defecto del botón"
+
+#: sharing.php:298
+msgid "Icon + text"
+msgstr "Icono + texto"
+
+#: sharing.php:299
+msgid "Icon only"
+msgstr "Sólo icono"
+
+#: sharing.php:300
+msgid "Text only"
+msgstr "Sólo texto"
+
+#: sharing.php:305
+msgid "Sharing label"
+msgstr "Etiqueta de compartir"
+
+#: sharing.php:311
+msgid "Open links in"
+msgstr "Abrir enlaces en"
+
+#: sharing.php:314
+msgid "New window"
+msgstr "Una ventana nueva"
+
+#: sharing.php:315
+msgid "Same window"
+msgstr "La misma ventana"
+
+#: sharing.php:320
+msgid "Show sharing buttons on"
+msgstr "Mostrar los botones de compartir en"
+
+#: sharing.php:323
+msgid "Posts, pages, and index pages"
+msgstr "Entradas, páginas y páginas de índices o archivo"
+
+#: sharing.php:324
+msgid "Posts and pages only"
+msgstr "Sólo entradas y páginas"
+
+#: sharing.php:325
+msgid "Index pages only"
+msgstr "Sólo páginas de índices o archivo"
+
+#: sharing.php:335
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: sharing.php:346
+msgid "Service name"
+msgstr "Nombre del servicio"
+
+#: sharing.php:352
+msgid "Sharing URL"
+msgstr "URL de compartir"
+
+#: sharing.php:356
+msgid "You can add the following variables to your service sharing URL:"
+msgstr "Puedes añadir las siguientes variables a la URL de compartir el servicio:"
+
+#: sharing.php:361
+msgid "Icon URL"
+msgstr "Icono de la URL"
+
+#: sharing.php:364
+msgid "Enter the URL of a 16x16px icon you want to use for this service."
+msgstr "Escribe la URL de un icono de 16x16px que desees utilizar para este servicio."
+
+#: sharing.php:370
+msgid "Create Share"
+msgstr "Crear servicio de compartir"
+
+#: sharing.php:380
+msgid "An error occurred creating your new sharing service - please check you gave valid details."
+msgstr "Se ha producido un error al crear tu nuevo servicio de compartir. Por favor, comprueba que todos los elementos que has añadido son válidos."
+
+#~ msgid "Posts only"
+#~ msgstr "Sólo entradas"

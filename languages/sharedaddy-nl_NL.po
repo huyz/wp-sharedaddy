@@ -1,0 +1,321 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-31 08:26+0100\n"
+"PO-Revision-Date: 2010-09-16 10:58+0100\n"
+"Last-Translator: Chantal Coolsma <chantalcoolsma@me.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: sharing-org.php:14
+#, php-format
+msgid ""
+"%s (%s) thinks you may be interested in the following post:\n"
+"\n"
+msgstr ""
+"%s (%s) denkt dat je het volgende bericht wel interessant vindt:\n"
+"\n"
+
+#: sharing.php:158
+msgid "Add a new service"
+msgstr "Nieuwe service toevoegen"
+
+#: sharing.php:380
+msgid "An error occurred creating your new sharing service - please check you gave valid details."
+msgstr "Er heeft zich een fout voorgedaan bij het toevoegen van de nieuwe service - controleer aub de gegevens."
+
+#: sharing.php:156
+msgid "Available Services"
+msgstr "Beschikbare services"
+
+#: sharing-sources.php:227
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: sharing-sources.php:506
+#: sharing-sources.php:509
+msgid "Click to Digg this post"
+msgstr "Digg dit!"
+
+#: sharing-sources.php:699
+msgid "Click to Press This!"
+msgstr "Blog dit!"
+
+#: sharing-sources.php:193
+msgid "Click to email this to a friend"
+msgstr "E-mail dit naar een vriend"
+
+#: sharing-sources.php:675
+msgid "Click to print"
+msgstr "Afdrukken"
+
+#: sharing-sources.php:730
+msgid "Click to share"
+msgstr "Delen"
+
+#: sharing-sources.php:427
+msgid "Click to share on Reddit"
+msgstr "Deel via Reddit"
+
+#: sharing-sources.php:354
+msgid "Click to share on StumbleUpon"
+msgstr "Deel via StumbleUpon"
+
+#: sharing-sources.php:264
+msgid "Click to share on Twitter"
+msgstr "Deel via Twitter"
+
+#: sharing-sources.php:171
+msgid "Close"
+msgstr "Sluiten"
+
+#: sharing.php:370
+msgid "Create Share"
+msgstr "Service instellen"
+
+#: sharing-sources.php:624
+msgid "Default button"
+msgstr "Standaard knop"
+
+#: sharing.php:295
+msgid "Default button style"
+msgstr "Standaard stijl knop"
+
+#: sharing.php:184
+msgid "Drag and drop available services here"
+msgstr "Sleep beschikbare services hierheen"
+
+#: sharing.php:157
+msgid "Drag and drop the services you'd like to enable into the box below."
+msgstr "Sleep de services die je in een box wilt zien hierheen."
+
+#: sharing-sources.php:127
+#: sharing-sources.php:193
+msgid "Email"
+msgstr "E-mail"
+
+#: sharing-sources.php:234
+msgid "Email check failed, please try again"
+msgstr "E-mail controle mislukt. Probeer opnieuw."
+
+#: sharing.php:178
+msgid "Enabled Services"
+msgstr "Actieve services"
+
+#: sharing.php:364
+msgid "Enter the URL of a 16x16px icon you want to use for this service."
+msgstr "Voer de URL van een 16x16px icoon in die je voor deze service wilt gebruiken."
+
+#: sharing-sources.php:764
+msgid "Icon"
+msgstr "Icoon"
+
+#: sharing.php:298
+msgid "Icon + text"
+msgstr "Icoon + Tekst"
+
+#: sharing.php:361
+msgid "Icon URL"
+msgstr "URL van icoon"
+
+#: sharing.php:299
+msgid "Icon only"
+msgstr "Alleen icoon"
+
+#: sharing.php:325
+msgid "Index pages only"
+msgstr "Alleen op index pagina's"
+
+#: sharing-sources.php:754
+msgid "Label"
+msgstr "Label"
+
+#: sharing-sources.php:626
+msgid "Like button"
+msgstr "Like Button"
+
+#: sharing.php:210
+msgid "Live Preview"
+msgstr "Voorvertoning"
+
+#: sharing.php:314
+msgid "New window"
+msgstr "Nieuw venster"
+
+#: sharing.php:311
+msgid "Open links in"
+msgstr "Open links in"
+
+#: sharing-sources.php:230
+msgid "Post was not sent - check your email addresses!"
+msgstr "Bericht was niet verzonden - controleer e-mailadressen!"
+
+#: sharing.php:323
+msgid "Posts and index pages"
+msgstr "Berichten en index pagina's"
+
+#: sharing.php:324
+msgid "Posts only"
+msgstr "Alleen berichten"
+
+#: sharing-sources.php:681
+#: sharing-sources.php:699
+msgid "Press This"
+msgstr "Blog dit"
+
+#: sharing-sources.php:671
+#: sharing-sources.php:675
+msgid "Print"
+msgstr "Afdrukken"
+
+#: sharing-sources.php:772
+msgid "Remove Service"
+msgstr "Verwijder service"
+
+#: sharing.php:315
+msgid "Same window"
+msgstr "Zelfde venster"
+
+#: sharing-sources.php:771
+msgid "Save"
+msgstr "Bewaar"
+
+#: sharing.php:335
+msgid "Save Changes"
+msgstr "Bewaar wijzigingen"
+
+#: sharing-sources.php:226
+msgid "Send Email"
+msgstr "Verstuur e-mail"
+
+#: sharing-sources.php:207
+msgid "Send to Email Address"
+msgstr "Verstuur naar e-mailadres"
+
+#: sharing.php:346
+msgid "Service name"
+msgstr "Naam van de service"
+
+#: sharing.php:181
+msgid "Services dragged here will appear individually."
+msgstr "Services die hierheen worden gesleept verschijnen los."
+
+#: sharing.php:195
+msgid "Services dragged here will be hidden behind a share button."
+msgstr "Services die hierheen worden gesleept verschijnen achter een deelknop."
+
+#: sharing-org.php:55
+#: sharing-org.php:62
+msgid "Settings"
+msgstr "Instellingen"
+
+#: sharing.php:145
+msgid "Settings have been saved"
+msgstr "Instellingen zijn opgeslagen"
+
+#: sharing-service.php:423
+#: sharing-sources.php:598
+#: sharing.php:226
+#: sharing.php:267
+msgid "Share"
+msgstr "Deel"
+
+#: sharing-sources.php:625
+msgid "Share button"
+msgstr "Deelknop"
+
+#: sharing-sources.php:602
+msgid "Share on Facebook"
+msgstr "Deel op Facebook"
+
+#: sharing-service.php:185
+msgid "Share this:"
+msgstr "Deel dit:"
+
+#: sharing-org.php:18
+msgid "Shared Post"
+msgstr "Bericht gedeeld"
+
+#: sharing-org.php:22
+#: sharing-org.php:23
+#: sharing.php:49
+msgid "Sharing"
+msgstr "Delen"
+
+#: sharing.php:49
+#: sharing.php:150
+msgid "Sharing Settings"
+msgstr "Instellingen delen"
+
+#: sharing.php:352
+msgid "Sharing URL"
+msgstr "URL delen"
+
+#: sharing.php:213
+msgid "Sharing is off. Please add services above to enable"
+msgstr "Delen is uitgeschakeld. Voeg services hierboven toe om te activeren."
+
+#: sharing.php:305
+msgid "Sharing label"
+msgstr "Deel label"
+
+#: sharing.php:320
+msgid "Show sharing buttons on"
+msgstr "Toon deelknoppen op"
+
+#: sharing-org.php:34
+msgid "Show sharing buttons on this post."
+msgstr "Toon deelknoppen bij dit bericht."
+
+#: sharing-sources.php:238
+msgid "Sorry, your blog cannot share posts by email."
+msgstr "Sorry, je blog kan geen berichten delen via e-mail."
+
+#: sharing-org.php:63
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: sharing.php:300
+msgid "Text only"
+msgstr "Alleen tekst"
+
+#: sharing-sources.php:169
+msgid "This post has been shared!"
+msgstr "Dit bericht is gedeeld!"
+
+#: sharing-sources.php:759
+msgid "URL"
+msgstr "URL"
+
+#: sharing-sources.php:325
+#: sharing-sources.php:402
+#: sharing-sources.php:453
+#: sharing-sources.php:556
+msgid "Use smart button"
+msgstr "Gebruik slimme knop"
+
+#: sharing.php:356
+msgid "You can add the following variables to your service sharing URL:"
+msgstr "Je kan de volgende variabelen toevoegen aan je service URL:"
+
+#: sharing-sources.php:170
+#, php-format
+msgid "You have shared this post with %s"
+msgstr "Je hebt dit bericht gedeeld met %s"
+
+#: sharing-sources.php:218
+msgid "Your Email Address"
+msgstr "Je e-mailadres"
+
+#: sharing-sources.php:215
+msgid "Your Name"
+msgstr "Je naam"
+

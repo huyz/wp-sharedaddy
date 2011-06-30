@@ -1,0 +1,17 @@
+WordPress plugin: Sharedaddy with Google +1 button
+==================================================
+
+This is a fork of a fork of Automattic's Sharedaddy plugin for WordPress.
+
+As of 2011-06-30, [Sharedaddy](http://wordpress.org/extend/plugins/sharedaddy/) (which by the way is included by the [Jetpack](http://wordpress.org/extend/plugins/jetpack/) plugin)) doesn't yet support a Google +1 button.
+
+Marcon Newmann extended Sharedaddy to [add support for Google +1 button](http://p0l0.binware.org/index.php/2011/06/03/google-1-for-sharedaddy/), but it wasn't working quite consistently with all the other services, so I hacked his modifications.  These are the things I've changed:
+
+*    I reverted to the "smart button" terminology instead of talking about "count".
+*    All 3 major display styles (smart button, non-smart with text, non-smart without text) are supported, as much as feasible.
+*    The smart button is always size medium, and the non-smart button is always size small.
+*    In all modes, the buttons and text are aligned properly, both within the WP Admin and on the rendered web page.
+
+Limitations
+-----------
+Google doesn't offer a way to "+1" a page via a regular link, as with other services.  They only support a JavaScript button.  This means that the plugin cannot display a clickable link with the text "Google +1" and gather click stats for +1.

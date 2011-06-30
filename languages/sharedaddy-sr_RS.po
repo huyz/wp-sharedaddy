@@ -1,0 +1,320 @@
+# Translation of Sharedaddy in Serbian
+# This file is distributed under the same license as the Sharedaddy package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sharedaddy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-31 08:26+0100\n"
+"PO-Revision-Date: 2010-11-13 21:25+0100\n"
+"Last-Translator: Milan Dinić <milan@srpski.biz>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 or n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/0.1\n"
+
+#: sharing-org.php:14
+#, php-format
+msgid ""
+"%s (%s) thinks you may be interested in the following post:\n"
+"\n"
+msgstr ""
+"%s (%s) мисли да ће вам следећи чланак бити  занимљив:\n"
+"\n"
+
+#: sharing.php:158
+msgid "Add a new service"
+msgstr "Додај нову услугу"
+
+#: sharing.php:380
+msgid "An error occurred creating your new sharing service - please check you gave valid details."
+msgstr "Десила се грешка са прављењем ваше нове услуге дељења - молимо вас да проверите да ли сте дали исправне детаље."
+
+#: sharing.php:156
+msgid "Available Services"
+msgstr "Доступне услуге"
+
+#: sharing-sources.php:227
+msgid "Cancel"
+msgstr "Одустани"
+
+#: sharing-sources.php:506
+#: sharing-sources.php:509
+msgid "Click to Digg this post"
+msgstr "Притисните да бисте гласали на Digg-у за овај чланак"
+
+#: sharing-sources.php:699
+msgid "Click to Press This!"
+msgstr "Притисните за Објави ово!"
+
+#: sharing-sources.php:193
+msgid "Click to email this to a friend"
+msgstr "Притисните да бисте послали ово пријатељу е-поштом"
+
+#: sharing-sources.php:675
+msgid "Click to print"
+msgstr "Притисните за штампање"
+
+#: sharing-sources.php:730
+msgid "Click to share"
+msgstr "Притисните да бисте поделили"
+
+#: sharing-sources.php:427
+msgid "Click to share on Reddit"
+msgstr "Притисните да бисте поделили на Reddit-у"
+
+#: sharing-sources.php:354
+msgid "Click to share on StumbleUpon"
+msgstr "Притисните да бисте поделили на StumbleUpon-у"
+
+#: sharing-sources.php:264
+msgid "Click to share on Twitter"
+msgstr "Притисните да бисте поделили на Твитеру"
+
+#: sharing-sources.php:171
+msgid "Close"
+msgstr "Затвори"
+
+#: sharing.php:370
+msgid "Create Share"
+msgstr "Направи дељење"
+
+#: sharing-sources.php:624
+msgid "Default button"
+msgstr "Подразумевано дугме"
+
+#: sharing.php:295
+msgid "Default button style"
+msgstr "Подразумевана стил дугмета"
+
+#: sharing.php:184
+msgid "Drag and drop available services here"
+msgstr "Повуците и пустите доступне услуге овде"
+
+#: sharing.php:157
+msgid "Drag and drop the services you'd like to enable into the box below."
+msgstr "Повуците и пустите услуге које желите да омогућите у кутију испод."
+
+#: sharing-sources.php:127
+#: sharing-sources.php:193
+msgid "Email"
+msgstr "Е-пошта"
+
+#: sharing-sources.php:234
+msgid "Email check failed, please try again"
+msgstr "Провера е-поште није успела, молимо вас да покушате поново"
+
+#: sharing.php:178
+msgid "Enabled Services"
+msgstr "Омогућене услуге"
+
+#: sharing.php:364
+msgid "Enter the URL of a 16x16px icon you want to use for this service."
+msgstr "Унесите URL иконице величине 16x16px коју желите да користите за ову услугу."
+
+#: sharing-sources.php:764
+msgid "Icon"
+msgstr "Иконица"
+
+#: sharing.php:298
+msgid "Icon + text"
+msgstr "Иконица + текст"
+
+#: sharing.php:361
+msgid "Icon URL"
+msgstr "URL иконице"
+
+#: sharing.php:299
+msgid "Icon only"
+msgstr "Само иконица"
+
+#: sharing.php:325
+msgid "Index pages only"
+msgstr "Само почетним страницама"
+
+#: sharing-sources.php:754
+msgid "Label"
+msgstr "Натпис"
+
+#: sharing-sources.php:626
+msgid "Like button"
+msgstr "Дугме свиђања"
+
+#: sharing.php:210
+msgid "Live Preview"
+msgstr "Преглед уживо"
+
+#: sharing.php:314
+msgid "New window"
+msgstr "Новом прозору/језичку"
+
+#: sharing.php:311
+msgid "Open links in"
+msgstr "Отвори везе у"
+
+#: sharing-sources.php:230
+msgid "Post was not sent - check your email addresses!"
+msgstr "Чланак није послат - проверите своје адресе е-поште!"
+
+#: sharing.php:323
+msgid "Posts and index pages"
+msgstr "Чланци и странице индекса"
+
+#: sharing.php:324
+msgid "Posts only"
+msgstr "Само чланци"
+
+#: sharing-sources.php:681
+#: sharing-sources.php:699
+msgid "Press This"
+msgstr "Објави ово"
+
+#: sharing-sources.php:671
+#: sharing-sources.php:675
+msgid "Print"
+msgstr "Штампање"
+
+#: sharing-sources.php:772
+msgid "Remove Service"
+msgstr "Уклони услугу"
+
+#: sharing.php:315
+msgid "Same window"
+msgstr "Истом прозору/језичку"
+
+#: sharing-sources.php:771
+msgid "Save"
+msgstr "Сачувај"
+
+#: sharing.php:335
+msgid "Save Changes"
+msgstr "Сачувај измене"
+
+#: sharing-sources.php:226
+msgid "Send Email"
+msgstr "Пошаљи е-пошту"
+
+#: sharing-sources.php:207
+msgid "Send to Email Address"
+msgstr "Пошаљи на адресу е-поште"
+
+#: sharing.php:346
+msgid "Service name"
+msgstr "Име услуге"
+
+#: sharing.php:181
+msgid "Services dragged here will appear individually."
+msgstr "Услуге повучене овде ће се појављивати појединачно."
+
+#: sharing.php:195
+msgid "Services dragged here will be hidden behind a share button."
+msgstr "Услуге повучене овде ће бити сакривене иза дугмета дељења."
+
+#: sharing-org.php:55
+#: sharing-org.php:62
+msgid "Settings"
+msgstr "Подешавања"
+
+#: sharing.php:145
+msgid "Settings have been saved"
+msgstr "Подешавања су сачувана"
+
+#: sharing-service.php:423
+#: sharing-sources.php:598
+#: sharing.php:226
+#: sharing.php:267
+msgid "Share"
+msgstr "Дељење"
+
+#: sharing-sources.php:625
+msgid "Share button"
+msgstr "Дугме дељења"
+
+#: sharing-sources.php:602
+msgid "Share on Facebook"
+msgstr "Подели на Фејсбуку"
+
+#: sharing-service.php:185
+msgid "Share this:"
+msgstr "Подели ово:"
+
+#: sharing-org.php:18
+msgid "Shared Post"
+msgstr "Подељени чланак"
+
+#: sharing-org.php:22
+#: sharing-org.php:23
+#: sharing.php:49
+msgid "Sharing"
+msgstr "Дељење"
+
+#: sharing.php:49
+#: sharing.php:150
+msgid "Sharing Settings"
+msgstr "Подешавања дељења"
+
+#: sharing.php:352
+msgid "Sharing URL"
+msgstr "URL дељења"
+
+#: sharing.php:213
+msgid "Sharing is off. Please add services above to enable"
+msgstr "Дељење је искључено. Молимо вас да изнад додате услуге да бисте га омогућили"
+
+#: sharing.php:305
+msgid "Sharing label"
+msgstr "Натпис дељења"
+
+#: sharing.php:320
+msgid "Show sharing buttons on"
+msgstr "Прикажи дугмад дељења на"
+
+#: sharing-org.php:34
+msgid "Show sharing buttons on this post."
+msgstr "Прикажи дугмад дељења на овом чланку."
+
+#: sharing-sources.php:238
+msgid "Sorry, your blog cannot share posts by email."
+msgstr "Жао нам је, ваш блог не може да дели чланке преко е-поште."
+
+#: sharing-org.php:63
+msgid "Support"
+msgstr "Подршка"
+
+#: sharing.php:300
+msgid "Text only"
+msgstr "Само текст"
+
+#: sharing-sources.php:169
+msgid "This post has been shared!"
+msgstr "Овај чланак је подељен!"
+
+#: sharing-sources.php:759
+msgid "URL"
+msgstr "URL"
+
+#: sharing-sources.php:325
+#: sharing-sources.php:402
+#: sharing-sources.php:453
+#: sharing-sources.php:556
+msgid "Use smart button"
+msgstr "Користи паметно дугме"
+
+#: sharing.php:356
+msgid "You can add the following variables to your service sharing URL:"
+msgstr "Можете додати следеће променљиве свом URL услуге дељења:"
+
+#: sharing-sources.php:170
+#, php-format
+msgid "You have shared this post with %s"
+msgstr "Поделили сте овај чланак са %s"
+
+#: sharing-sources.php:218
+msgid "Your Email Address"
+msgstr "Ваша адреса е-поште"
+
+#: sharing-sources.php:215
+msgid "Your Name"
+msgstr "Ваше име"
+

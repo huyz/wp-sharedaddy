@@ -1,0 +1,321 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin Sharedaddy en français\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-14 17:00+0100\n"
+"PO-Revision-Date: 2010-09-14 17:00+0100\n"
+"Last-Translator: Aurélie ROCHELLE <a.rochelle@moon-websites.com>\n"
+"Language-Team: Aurélie ROCHELLE <a.rochelle@moon-websites.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: sharedaddy.php:14
+#, php-format
+msgid ""
+"%s (%s) thinks you may be interested in the following post:\n"
+"\n"
+msgstr ""
+"%s (%s) pense que l'article suivant peut vous intéresser:\n"
+"\n"
+
+#: sharedaddy.php:18
+msgid "Shared Post"
+msgstr "Article partagé"
+
+#: sharedaddy.php:22
+#: sharedaddy.php:23
+#: sharing.php:49
+msgid "Sharing"
+msgstr "Partage"
+
+#: sharedaddy.php:34
+msgid "Show sharing buttons on this post."
+msgstr "Montrer les boutons de partage sur cet article."
+
+#: sharedaddy.php:55
+#: sharedaddy.php:62
+msgid "Settings"
+msgstr "Configurer"
+
+#: sharedaddy.php:63
+msgid "Support"
+msgstr "Aide"
+
+#: sharing-service.php:185
+msgid "Share this:"
+msgstr "Partager :"
+
+#: sharing-service.php:423
+#: sharing-sources.php:598
+#: sharing.php:226
+#: sharing.php:267
+msgid "Share"
+msgstr "Partager"
+
+#: sharing-sources.php:127
+#: sharing-sources.php:193
+msgid "Email"
+msgstr "E-mail"
+
+#: sharing-sources.php:169
+msgid "This post has been shared!"
+msgstr "Cet article a été partagé !"
+
+#: sharing-sources.php:170
+#, php-format
+msgid "You have shared this post with %s"
+msgstr "Vous avez partagé cet article avec %s"
+
+#: sharing-sources.php:171
+msgid "Close"
+msgstr "Fermer"
+
+#: sharing-sources.php:193
+msgid "Click to email this to a friend"
+msgstr "Cliquez ici pour envoyer cet article à un ami."
+
+#: sharing-sources.php:207
+msgid "Send to Email Address"
+msgstr "Envoyer à l'adresse e-mail :"
+
+#: sharing-sources.php:215
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: sharing-sources.php:218
+msgid "Your Email Address"
+msgstr "Votre adresse e-mail"
+
+#: sharing-sources.php:226
+msgid "Send Email"
+msgstr "Envoyer"
+
+#: sharing-sources.php:227
+msgid "Cancel"
+msgstr "Annuler"
+
+#: sharing-sources.php:230
+msgid "Post was not sent - check your email addresses!"
+msgstr "Adresse erronée. L'article n'a pas été envoyé."
+
+#: sharing-sources.php:234
+msgid "Email check failed, please try again"
+msgstr "La vérification de l'adresse mail a échoué. Merci de réessayer."
+
+#: sharing-sources.php:238
+msgid "Sorry, your blog cannot share posts by email."
+msgstr "Désolé, votre blog ne peut pas partager des articles par e-mail."
+
+#: sharing-sources.php:264
+msgid "Click to share on Twitter"
+msgstr "Cliquez ici pour partager sur Twitter."
+
+#: sharing-sources.php:325
+#: sharing-sources.php:402
+#: sharing-sources.php:453
+#: sharing-sources.php:556
+msgid "Use smart button"
+msgstr "Utiliser des boutons intelligents"
+
+#: sharing-sources.php:354
+msgid "Click to share on StumbleUpon"
+msgstr "Cliquez ici pour partager sur StumbleUpon."
+
+#: sharing-sources.php:427
+msgid "Click to share on Reddit"
+msgstr "Cliquez ici pour partager sur Reddit."
+
+#: sharing-sources.php:506
+#: sharing-sources.php:509
+msgid "Click to Digg this post"
+msgstr "Cliquez ici pour partager cet article sur Digg."
+
+#: sharing-sources.php:602
+msgid "Share on Facebook"
+msgstr "Partager sur Facebook"
+
+#: sharing-sources.php:624
+msgid "Default button"
+msgstr "Bouton par défaut"
+
+#: sharing-sources.php:625
+msgid "Share button"
+msgstr "Bouton Share"
+
+#: sharing-sources.php:626
+msgid "Like button"
+msgstr "Bouton J'aime"
+
+#: sharing-sources.php:671
+#: sharing-sources.php:675
+msgid "Print"
+msgstr "Imprimer"
+
+#: sharing-sources.php:675
+msgid "Click to print"
+msgstr "Cliquez ici pour imprimer."
+
+#: sharing-sources.php:681
+#: sharing-sources.php:699
+msgid "Press This"
+msgstr "Publier un article"
+
+#: sharing-sources.php:699
+msgid "Click to Press This!"
+msgstr "Cliquez ici pour publier un article."
+
+#: sharing-sources.php:730
+msgid "Click to share"
+msgstr "Cliquez pour partager"
+
+#: sharing-sources.php:754
+msgid "Label"
+msgstr "Étiquette"
+
+#: sharing-sources.php:759
+msgid "URL"
+msgstr "URL"
+
+#: sharing-sources.php:764
+msgid "Icon"
+msgstr "Icône"
+
+#: sharing-sources.php:771
+msgid "Save"
+msgstr "Enregistrer"
+
+#: sharing-sources.php:772
+msgid "Remove Service"
+msgstr "Supprimer le service"
+
+#: sharing.php:49
+#: sharing.php:150
+msgid "Sharing Settings"
+msgstr "Configuration des options de partage"
+
+#: sharing.php:145
+msgid "Settings have been saved"
+msgstr "Les changement ont été enregistrés."
+
+#: sharing.php:156
+msgid "Available Services"
+msgstr "Services disponibles"
+
+#: sharing.php:157
+msgid "Drag and drop the services you'd like to enable into the box below."
+msgstr "Faites glisser les services que vous souhaitez activer dans l'espace ci-dessous."
+
+#: sharing.php:158
+msgid "Add a new service"
+msgstr "Ajouter un nouveau service"
+
+#: sharing.php:178
+msgid "Enabled Services"
+msgstr "Services activés"
+
+#: sharing.php:181
+msgid "Services dragged here will appear individually."
+msgstr "Les services déplacés ici apparaîtront séparément."
+
+#: sharing.php:184
+msgid "Drag and drop available services here"
+msgstr "Faites glisser ici les services disponibles.­"
+
+#: sharing.php:195
+msgid "Services dragged here will be hidden behind a share button."
+msgstr "Les services déplacés ici seront cachés derrière un bouton de partage."
+
+#: sharing.php:210
+msgid "Live Preview"
+msgstr "Aperçu"
+
+#: sharing.php:213
+msgid "Sharing is off. Please add services above to enable"
+msgstr "Aucun partage. Ajoutez des services ci-dessus pour les activer."
+
+#: sharing.php:295
+msgid "Default button style"
+msgstr "Style par défaut du bouton"
+
+#: sharing.php:298
+msgid "Icon + text"
+msgstr "icône + texte"
+
+#: sharing.php:299
+msgid "Icon only"
+msgstr "icône seul"
+
+#: sharing.php:300
+msgid "Text only"
+msgstr "texte seul"
+
+#: sharing.php:305
+msgid "Sharing label"
+msgstr "Étiquette de partage"
+
+#: sharing.php:311
+msgid "Open links in"
+msgstr "Ouvrir les liens dans"
+
+#: sharing.php:314
+msgid "New window"
+msgstr "une nouvelle fenêtre"
+
+#: sharing.php:315
+msgid "Same window"
+msgstr "la même fenêtre"
+
+#: sharing.php:320
+msgid "Show sharing buttons on"
+msgstr "Afficher les boutons de partage sur"
+
+#: sharing.php:323
+msgid "Posts and index pages"
+msgstr "les articles et les pages d'index"
+
+#: sharing.php:324
+msgid "Posts only"
+msgstr "les articles seulement"
+
+#: sharing.php:325
+msgid "Index pages only"
+msgstr "les pages d'index seulement"
+
+#: sharing.php:335
+msgid "Save Changes"
+msgstr "Enregistrer les changements"
+
+#: sharing.php:346
+msgid "Service name"
+msgstr "Nom du service"
+
+#: sharing.php:352
+msgid "Sharing URL"
+msgstr "URL de partage"
+
+#: sharing.php:356
+msgid "You can add the following variables to your service sharing URL:"
+msgstr "Vous pouvez ajouter les variables suivantes à l'URL de partage :"
+
+#: sharing.php:361
+msgid "Icon URL"
+msgstr "URL de l'icône"
+
+#: sharing.php:364
+msgid "Enter the URL of a 16x16px icon you want to use for this service."
+msgstr "Tapez l'URL d'une image de 16x16 px que vous souhaitez utiliser pour ce service."
+
+#: sharing.php:370
+msgid "Create Share"
+msgstr "Créer un service de partage"
+
+#: sharing.php:380
+msgid "An error occurred creating your new sharing service - please check you gave valid details."
+msgstr "Une erreur s'est produite lors de la création de votre service de partage. Veuillez vérifier les informations saisies."
+
