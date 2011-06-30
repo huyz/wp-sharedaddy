@@ -19,15 +19,15 @@ Screenshots
 
 Here's what the buttons look like as a set of simple icons:
 
-    ![Icons without text](wp-sharedaddy/raw/master/screenshots/screenshot-icons-only.png)
+![Icons without text](wp-sharedaddy/raw/master/screenshots/screenshot-icons-only.png)
 
 And as a set of icons with text:
 
-    ![Icons with text](wp-sharedaddy/raw/master/screenshots/screenshot-icons-with-text.png)
+![Icons with text](wp-sharedaddy/raw/master/screenshots/screenshot-icons-with-text.png)
 
 Finally, as "smart"i cons with counts (For some, the counts only show up when > 0):
 
-    ![Smart buttons](wp-sharedaddy/raw/master/screenshots/screenshot-smart-buttons.png)
+![Smart buttons](wp-sharedaddy/raw/master/screenshots/screenshot-smart-buttons.png)
 
 Limitations
 -----------
