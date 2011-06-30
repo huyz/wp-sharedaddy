@@ -1,16 +1,16 @@
 WordPress plugin: Sharedaddy with Google +1 button
 ==================================================
 
-This is a fork of a fork of Automattic's Sharedaddy plugin for WordPress.
+This is a fork of a fork of Automattic's [Sharedaddy](http://wordpress.org/extend/plugins/sharedaddy/) plugin for WordPress.  Sharedaddy, by the way, is included in the great [Jetpack](http://wordpress.org/extend/plugins/jetpack/) plugin).
 
-As of 2011-06-30, [Sharedaddy](http://wordpress.org/extend/plugins/sharedaddy/) (which by the way is included by the [Jetpack](http://wordpress.org/extend/plugins/jetpack/) plugin)) doesn't yet support a Google +1 button.
+As of 2011-06-30, Sharedaddy doesn't yet support a Google +1 button.
 
 Marco Newmann extended Sharedaddy to [add support for Google +1 button](http://p0l0.binware.org/index.php/2011/06/03/google-1-for-sharedaddy/), but it wasn't working quite consistently with all the other services, so I hacked his modifications.  These are the things I've changed:
 
 *    I reverted to the "smart button" terminology instead of talking about "count".
 *    All 3 major display styles (smart button, non-smart with text, non-smart without text) are supported, as much as feasible.
-*    The smart button is always size medium, and the non-smart button is always size small.
-*    In all modes, the buttons and text are aligned properly, both within the WP Admin and on the rendered web page.
+*    The smart button is always medium-sized, and the non-smart button is always small-sized.
+*    In all modes, the buttons and text are cropped and aligned properly, both within the WP Admin and on the rendered web page.
 
 Limitations
 -----------
@@ -24,8 +24,8 @@ Google doesn't offer a way to "+1" a page via a regular link, as with other serv
 Google's +1 medium-sized smart button has a fixed width of 90px.  So if you see extra whitespace at the right of the count, it's because Google wants to reserve the space for text that can be many lengths: "0", "2.3k", etc.  Blame Google for not adjusting the width automatically.
 
 
-[GPL License](http://www.gnu.org/licenses/
-------------------------------------------
+[GPL License](http://www.gnu.org/licenses/)
+-------------------------------------------
 Sharedaddy is covered by the GNU General Public License, version 2.
 
 For some reason, Marco chose to license his modifications with the GNU General Publice License, version 3.  My understanding is that version 2 and version 3 are not completely compatible.
