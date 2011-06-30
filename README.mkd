@@ -10,7 +10,9 @@ Marco Newmann extended Sharedaddy to [add support for Google +1 button](http://p
 *    I reverted to the "smart button" terminology instead of talking about "count".
 *    All 3 major display styles (smart button, non-smart with text, non-smart without text) are supported, as much as feasible.
 *    The smart button is always medium-sized, and the non-smart button is always small-sized.
-*    In all modes, the buttons and text are cropped and aligned properly, both within the WP Admin and on the rendered web page.
+*    In all display styles, the buttons and text are cropped and aligned properly, both within the WP Admin and on the rendered web page.
+
+This plugin has a limited shelf-life, as Automattic will surely release an official update of Sharedaddy soon.
 
 Limitations
 -----------
