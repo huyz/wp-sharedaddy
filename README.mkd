@@ -17,11 +17,17 @@ This plugin has a limited shelf-life, as Automattic will surely release an offic
 Screenshots
 -----------
 
-![Smart buttons](wp-sharedaddy/raw/master/screenshots/screenshot-smart-buttons.png)
+Here's what the buttons look like as a set of simple icons:
 
-![Icons without text](wp-sharedaddy/raw/master/screenshots/screenshot-icons-only.png)
+    ![Icons without text](wp-sharedaddy/raw/master/screenshots/screenshot-icons-only.png)
 
-![Icons with text](wp-sharedaddy/raw/master/screenshots/screenshot-icons-with-text.png)
+And as a set of icons with text:
+
+    ![Icons with text](wp-sharedaddy/raw/master/screenshots/screenshot-icons-with-text.png)
+
+Finally, as "smart"i cons with counts (For some, the counts only show up when > 0):
+
+    ![Smart buttons](wp-sharedaddy/raw/master/screenshots/screenshot-smart-buttons.png)
 
 Limitations
 -----------
@@ -33,6 +39,8 @@ Google doesn't offer a way to "+1" a page via a regular link, as with other serv
 ### Lots of space in the right margin ###
 
 Google's +1 medium-sized smart button has a fixed width of 90px.  So if you see extra whitespace at the right of the count, it's because Google wants to reserve the space for text that can be many lengths: "0", "2.3k", etc.  Blame Google for not adjusting the width automatically.
+
+A workaround would be to put the +1 button all the way to the right.  But the Facebook button has the same problem: it has a variable width, depending on whether the count shows up.  So which to put on the right?  That's the kind of dilemma that's gonna make me shoot myself in the head.
 
 Installation
 ------------
