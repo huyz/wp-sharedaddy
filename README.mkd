@@ -17,11 +17,11 @@ This plugin has a limited shelf-life, as Automattic will surely release an offic
 Screenshots
 -----------
 
-![Smart buttons](screenshots/screenshot-smart-buttons.png)
+![Smart buttons](wp-sharedaddy/raw/master/screenshots/screenshot-smart-buttons.png)
 
-![Icons without text](screenshots/screenshot-icons-only.png)
+![Icons without text](wp-sharedaddy/raw/master/screenshots/screenshot-icons-only.png)
 
-![Icons with text](screenshots/screenshot-icons-with-text.png)
+![Icons with text](wp-sharedaddy/raw/master/screenshots/screenshot-icons-with-text.png)
 
 Limitations
 -----------
