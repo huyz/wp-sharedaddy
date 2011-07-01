@@ -68,7 +68,8 @@
 
 .sharing a.share-twitter,.sharing-hidden a.share-twitter { background: url('images/twitter.png') no-repeat center left; }
 .sharing a.share-googleplusone,.sharing-hidden a.share-googleplusone { background: url('images/googleplusone.png') no-repeat center left; }
-.sharing li.share-googleplusone div { vertical-align: middle !important; }
+.sharing li.share-googleplusone span.option-smart-on div { padding: 2px 0 0 0 !important; }
+.sharing li.share-googleplusone span.option-smart-off div { padding: 2px 0 0 0 !important; top: 2px; position: relative; }
 .sharing li.share-linkedin div { padding: 2px 0 0 0 !important; }
 .sharing a.share-facebook,.sharing-hidden a.share-facebook { background: url('images/facebook.png') no-repeat center left; }
 .sharing a.share-email,.sharing-hidden a.share-email { background: url('images/email.png') no-repeat center left; }

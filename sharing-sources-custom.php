@@ -191,11 +191,18 @@ class Share_GooglePlusOne extends Sharing_Advanced_Source
 		$added_googleplusone_js = true;
 	}
 
+        if ($this->smart) {
+                $display .= '<span class="option-smart-on">';
+        } else {
+                $display .= '<span class="option-smart-off">';
+        }
+
 	$display .= '<g:plusone size="' . ($this->smart ? $this->_size : "small") . '" count="' . ($this->smart ? 'true' : 'false') . '" href="' . esc_url( $permalink ) . '"></g:plusone>';
 
 	if (!$this->smart && ($this->button_style == 'text' || $this->button_style == 'icon-text')) {
-		$display .= '<span style="vertical-align: middle; padding-left:4px">' . _x( 'Google +1', 'share to', 'sharedaddy' ) . '</span>';
+		$display .= '<span style="padding-left:4px">' . _x( 'Google +1', 'share to', 'sharedaddy' ) . '</span>';
 	}
+        $display .= '</span>';
 	
 	return $display;
     }
