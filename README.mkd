@@ -48,6 +48,10 @@ Installation
 1.   Download the sources by clicking the "Downloads" button above to the right.
 2.   Open the archive and replace the `sharedaddy/` directory or the `jetpack/modules/sharedaddy/` directory.
 
+Feedback
+--------
+You can comment on the blog post [Google +1 Button for WordPress plugin Sharedaddy](http://huyz.us/2011/google-1-for-sharedaddy-revised/).
+
 
 [GPL License](http://www.gnu.org/licenses/)
 -------------------------------------------
