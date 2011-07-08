@@ -42,6 +42,10 @@ Google's +1 medium-sized smart button has a fixed width of 90px.  So if you see 
 
 A workaround would be to put the +1 button all the way to the right.  But the Facebook button suffers the same problem: it reserves a fixed width but displays a varying amount of graphics and text, depending on what the count is.  So which to put on the right?  That's the kind of dilemma that's gonna make me shoot myself in the head.
 
+### Google +1 button doesn't show up in mobile ###
+
+Google is [not yet ready](http://www.google.com/support/forum/p/Webmasters/thread?tid=6da5296e3d7207e2&hl=en) to support mobile.  Once they're ready, my guess is that the button will display and work automatically without having to update Sharedaddy.
+
 Installation
 ------------
 
